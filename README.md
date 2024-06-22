@@ -60,6 +60,10 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Dahman-Ismail&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
+
+![Snake animation](https://raw.githubusercontent.com/{Dahman-Ismail}/{Dahman-Ismail}/output/github-contribution-grid-snake-dark.svg)
+
+
 [![](https://visitcount.itsvg.in/api?id=Dahman-Ismail&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
