@@ -100,7 +100,6 @@ I combine reproducible experiments, clean engineering, and pragmatic deploymentâ
 
 - LinkedIn: [ismail-dahman](https://linkedin.com/in/ismail-dahman)  
 - GitHub: [Dahman-Ismail](https://github.com/Dahman-Ismail)  
-- Email: `ismail.your.email@example.com` (replace with real address)
 
 <br>
 
