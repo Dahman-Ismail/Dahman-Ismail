@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=&fontSize=0)
 
-<img src="https://countdown-5ibl.vercel.app/api/countdown" alt="Countdown" />
+<img src="https://img.shields.io/badge/Status-Actively_Building-C5A572?style=for-the-badge&logo=github&logoColor=0D1117" alt="Status" />
 </div>
 
 <div align="center">
