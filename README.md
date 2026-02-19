@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=&fontSize=0)
 
-<img src="https://img.shields.io/badge/Status-Actively_Building-C5A572?style=for-the-badge&logo=github&logoColor=0D1117" alt="Status" />
+<img src="https://geps.dev/progress/75?dangerColor=0D1117&warningColor=C5A572&successColor=C5A572" alt="Year Progress" />
 </div>
 
 <div align="center">
